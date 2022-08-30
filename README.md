@@ -2,22 +2,6 @@
 
 Exercise for MSCH-C220
 
-A demonstration of this exercise is available at [https://youtu.be/VVd_8dvao9E](https://youtu.be/VVd_8dvao9E).
-
-An updated demonstration of this exercise (to account for the Twine 2.4 UI changes) is available at [https://youtu.be/HH3K50PZq5c](https://youtu.be/HH3K50PZq5c).
-
-This exercise is an opportunity for you to create your first project in Twine, the open-source tool for creating non-linear interactive stories (interactive fiction). You should have installed [Twine 2.4.1](http://twinery.org/)  as part of your last exercise; if not, please do so now.
-
-Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01b-Twine-Project. Edit the LICENSE and replace BL-MSCH-C220-F22 with your full name.  Commit your changes.
-
-Press the green "Code" button and select "Open in GitHub Desktop". Allow the browser to open (or install) GitHub Desktop. Once GitHub Desktop has loaded, you should see a window labeled "Clone a Repository" asking you for a Local Path on your computer where the project should be copied. Choose a location where you will keep the repositories for this class (a C220 folder off your Desktop would be fine). Make sure the Local Path ends with "Exercise-01b-Twine-Project" and then press the "Clone" button. GitHub Desktop will now download a copy of the repository to the location you indicated.
-
-Open Twine, and press the "+New" button in the top left corner of the window. When you are asked what your story should be named, enter "Zork". Press the "Create" button to get started.
-
-You should now see a window with a blue grid background. There should be a node in the middle of the window labeled "Untitled Passage". Double click on the node to open it.
-
-On the top line of the resulting window, change "Untitled Passage" to "West of House". Then replace the description ("Double-click this passage to edit it.") with the following:
-
 ```
 This is an open field west of a white house, with a boarded front door.
 

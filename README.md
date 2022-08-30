@@ -86,9 +86,6 @@ Quit Twine. In GitHub desktop, you should now see Zork.html listed in the left p
 
 If you return to and refresh your GitHub repository page, you should now see Zork.html listed among the files.
 
-Now edit the README.md file. When you have finished editing, commit your changes, and then turn in the URL of the main repository page (https://github.com/[username]/Exercise-01b-Twine-Project) on Canvas.
-
-The final state of the file should be as follows (replacing my information with yours):
 ```
 # Exercise-01b-Twine-Project
 
@@ -106,5 +103,5 @@ Built using Twine 2.4.1
 None
 
 ## Created by 
-Jason Francis
+Aiden Pedroncelli
 ```
